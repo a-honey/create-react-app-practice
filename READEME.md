@@ -105,3 +105,7 @@ const App = () => {
 };
 export default App;
 ```
+
+#### 실행
+
+`npm start`
